@@ -8,7 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		String path = "C:\\Users\\valmi\\ESTUDOS\\Java Completo com Nelio Alves_Udemy\\in.txt";
+		String path = "C:\\Caminho\\até\\o\\diretório\\nomeDoArquivo";
 		FileReader fr = null;
 		BufferedReader br = null;
 		
