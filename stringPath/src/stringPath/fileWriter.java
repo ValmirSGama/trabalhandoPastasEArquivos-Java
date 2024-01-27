@@ -10,7 +10,7 @@ public class fileWriter {
 
 		String[] lines = new String[] {"Good morning", "Good afternoon", "Good night"}; 
 		
-		String path = "C:\\Users\\valmi\\ESTUDOS\\Java Completo com Nelio Alves_Udemy\\out.txt";
+		String path = "C:\\Caminho\\até\\o\\diretório\\nomeDoArquivo";
 		
 		try(BufferedWriter bw = new BufferedWriter(new FileWriter(path, true))){
 			for(String line : lines) {
