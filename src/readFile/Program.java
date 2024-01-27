@@ -8,7 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		File file = new File("C:\\Caminho\\até\\o\\deretório\\nomeDoArquivo");
+		File file = new File("C:\\Caminho\\até\\o\\diretório\\nomeDoArquivo");
 		Scanner sc = null;
 		try {
 			sc = new Scanner(file);
