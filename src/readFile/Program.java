@@ -8,7 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		File file = new File("C:\\Users\\valmi\\ESTUDOS\\Java Completo com Nelio Alves_Udemy\\in.txt");
+		File file = new File("C:\\Caminho\\até\\o\\deretório\\nomeDoArquivo");
 		Scanner sc = null;
 		try {
 			sc = new Scanner(file);
